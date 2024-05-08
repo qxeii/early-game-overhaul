@@ -2,6 +2,9 @@
 	"values": [
 		"minecraft:coarse_dirt",
 		"minecraft:dirt",
-		"minecraft:grass_block"
+		"minecraft:grass_block",
+		"#minecraft:base_stone_overworld",
+		"minecraft:gravel",
+		"minecraft:sand"
 	]
 }
